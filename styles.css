@@ -5,6 +5,7 @@
 nav {
     display: flex;
     justify-content: flex-end;
+    margin: 3% 3% 0% 0%;
 }
 
 .nav-bar {
@@ -13,20 +14,20 @@ nav {
 }
 
 .nav-list {
-    margin-right: 20px
+    margin-right: 25px;
 }
 
 #hello {
-    padding: 8px;
-    background-color: red;
-    border-radius: 20px;
-    border: 2px solid #D6B4FC;
-    color: #D6B4FC;
+    padding: 0px 25px;
+    background-color: white;
+    border-radius: 50px;
+    border: 2px solid #00ADB5;
+    color: #00ADB5;
     font: 1em sans-serif;
     margin-right: 20px;
 }
 
 #hello:hover {
     color: white;
-    background-color: #D6B4FC;
+    background-color: #00ADB5;
 }
