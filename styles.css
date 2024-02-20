@@ -13,16 +13,17 @@ nav {
 }
 
 .nav-list {
-    margin: 0.5rem 1rem 0;
+    margin-right: 20px
 }
 
 #hello {
-    padding: 10px;
+    padding: 8px;
     background-color: white;
     border-radius: 20px;
     border: 2px solid #D6B4FC;
     color: #D6B4FC;
     font: 1em sans-serif;
+    margin-right: 20px;
 }
 
 #hello:hover {
