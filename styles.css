@@ -9,6 +9,7 @@ html, body {
 .nav {
     height: 100px;
     padding-top: 50px;
+    max-width: 90%;
 }
 
 nav {
@@ -41,6 +42,7 @@ nav {
     background-color: #00ADB5;
 }
 
+
 a:hover {
     color: #00ADB5;
 }
@@ -59,11 +61,21 @@ a:link {
 }
 
 .hero-title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin-top: 5%;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }
 
 .hero-detail {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     display: flex;
+    margin-top: -15px;
 }
+
+.hero-img {
+    border-radius: 50%;
+    margin-top: 2%;
+}
+
