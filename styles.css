@@ -99,7 +99,7 @@ a:link {
 .container {
     background-color: #6E07F3;
     padding-top: 50px;
-    padding-bottom: 25%;
+    padding-bottom: 20%;
 }
 
 .intro-header {
@@ -118,3 +118,29 @@ a:link {
     color: white;
 }
 
+/* About me */
+
+.second-container {
+    display: flex;
+    max-width: 1200%;
+}
+
+.design {
+    margin: auto;
+    text-align: center;
+}
+
+.dev {
+    margin: auto;
+    text-align: center;
+}
+
+.about-me-header {
+    font-size: 3rem;
+    font-family: sans-serif;
+    text-decoration: underline;;
+}
+
+.description {
+    font-size: 1.2rem;;
+}
